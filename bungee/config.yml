@@ -45,6 +45,6 @@ disabled_commands:
 - disabledcommandhere
 servers:
   lobby:
-    motd: '&1Just another Waterfall - Forced Host'
-    address: adsnetwork.aternos.me:59983
+    motd: "&b&k>>>>&r &e&lBLHS BREAKOUT &b&k<<<<&r"
+    address: littlenoobcafe.aternos.me:24376
     restricted: false

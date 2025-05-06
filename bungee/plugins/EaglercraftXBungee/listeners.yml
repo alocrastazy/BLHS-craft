@@ -10,8 +10,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&b&kllll&e&lADSCRAFT&nSEASON 8&bIS OPEN &kllll&r'
-  - '     &c&lHERE!!!!'
+  - "&b&k>>>>&r &e&lBLHS BREAKOUT &b&k<<<<&r"
+  - "    &a&lLET'S GO!"
   allow_motd: true
   allow_query: true
   request_motd_cache:
